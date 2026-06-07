@@ -49,3 +49,4 @@ Most of my projects are practical tools for running, inspecting, or simplifying 
 - Swift and SwiftUI apps
 - Rust tools with practical safety guarantees
 - AI-assisted systems that stay inspectable
+
