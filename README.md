@@ -14,9 +14,8 @@ I build local-first developer tools, Swift apps, Rust libraries, and small AI wo
 
 ## Recent Projects
 
-*Newest first.*
-
 - [`has-codex-rate-limits-reset-today`](https://github.com/jskoiz/has-codex-rate-limits-reset-today) — a quick yes/no on whether OpenAI's Codex team reset rate limits today
+- [`github-command-center`](https://github.com/jskoiz/github-command-center) — a focused GitHub dashboard for repos, PRs, issues, CI health, and Actions billing
 - [`minmaxxer`](https://github.com/jskoiz/minmaxxer) — make your Codex automations budget-aware with one line of shell: exit `0` to go, `10` to skip
 - [`thenines.online`](https://github.com/jskoiz/thenines.online) — live uptime comparison of Claude and OpenAI, refreshed hourly from public status pages
 - [`saneyaml`](https://github.com/jskoiz/saneyaml) — sane, safe, serde-first YAML for Rust: YAML 1.2 by default, real diagnostics, unsafe-free
