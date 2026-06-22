@@ -21,7 +21,6 @@ I build local-first developer tools, Swift apps, Rust libraries, and small AI wo
 - [`saneyaml`](https://github.com/jskoiz/saneyaml) — sane, safe, serde-first YAML for Rust: YAML 1.2 by default, real diagnostics, unsafe-free
 - [`cmdcmd`](https://github.com/jskoiz/cmdcmd) — iPhone companion for sending screenshots plus context into Codex Desktop, with on-device OCR
 - [`yemma`](https://github.com/jskoiz/yemma) — Gemma 4 running locally on your iPhone, built around fast on-device inference and native SwiftUI
-- [`imx`](https://github.com/jskoiz/imx) — fast, memory-safe Rust image conversion library and CLI, differentially verified against ImageMagick
 - [`cruisin`](https://github.com/jskoiz/cruisin) — native SwiftUI realtime voice guide prototype for Honolulu route replay
 - [`portpourri`](https://github.com/jskoiz/portpourri) — macOS menu bar app to see which local dev ports are in use, who owns them, and resolve conflicts
 - [`symphony-dashboard`](https://github.com/jskoiz/symphony-dashboard) — small local dashboard that rolls up multiple Symphony observability servers into one page
